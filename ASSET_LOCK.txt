@@ -1,0 +1,5 @@
+STRICT ASSET LOCK
+
+The game package contains exactly 119 unique media assets sourced from the two user-provided archives.
+No external image/audio/video assets are required by the game.
+The media folder contains all 119 source assets; media_index.json is the complete manifest.
